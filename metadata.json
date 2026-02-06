@@ -1,0 +1,7 @@
+{
+  "name": "BMW Ultimate Experience",
+  "description": "A premium automotive catalog featuring all BMW models with detailed specifications, interactive 360-degree views, AI-powered insights, and real-time release notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
